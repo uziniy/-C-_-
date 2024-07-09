@@ -1,0 +1,8 @@
+einsapnner	5200
+water	800
+coke	2000
+sprite	2000
+orange_juice	2500
+caffe_latte	1800
+earl_grey	3500
+peppermint	3500
